@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "sources": [
+      "../common/models",
+      "./models",
+      "./node_modules/loopback-component-passport/lib/models"
+    ]
+  },
+  "User": {
+    "dataSource": "mysqldb",
+    "public": true
+  },
+  "AccessToken": {
+    "dataSource": "mysqldb",
+    "public": false
+  },
+  "UserCredential": {
+    "dataSource": "mysqldb",
+    "public": false
+  },
+  "UserIdentity": {
+    "dataSource": "mysqldb",
+    "public": false
+  },
+  "ACL": {
+    "dataSource": "mysqldb",
+    "public": false
+  },
+  "RoleMapping": {
+    "dataSource": "mysqldb",
+    "public": false
+  },
+  "Role": {
+    "dataSource": "mysqldb",
+    "public": false
+  }
+}
