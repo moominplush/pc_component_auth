@@ -125,7 +125,7 @@ app.get('/signup', function(req, res, next) {
 });
 
 app.post('/signup', function(req, res, next) {
-  var User = app.models.user;
+  var User = app.models.User;
 
   var newUser = {};
   newUser.email = req.body.email.toLowerCase();
