@@ -6,11 +6,11 @@
   "mysqldb": {
     "host": "us-cdbr-iron-east-05.cleardb.net",
     "port": 0,
-    "url": "mysql://b0ccd72e27df1d:cb2fffd6@us-cdbr-iron-east-05.cleardb.net/heroku_7e5fab49052c081?reconnect=true",
-    "database": "heroku_7e5fab49052c081",
-    "password": "cb2fffd6",
+    "url": "mysql://bd28c3f3dcedfc:99fc9e4a@us-cdbr-iron-east-05.cleardb.net/heroku_f98c73d20b47329?reconnect=true",
+    "database": "heroku_f98c73d20b47329",
+    "password": "99fc9e4a",
     "name": "mysqldb",
-    "user": "b0ccd72e27df1d",
+    "user": "bd28c3f3dcedfc",
     "connector": "mysql"
   },
   "mdb": {

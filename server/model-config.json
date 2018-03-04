@@ -7,31 +7,31 @@
     ]
   },
   "User": {
-    "dataSource": "mdb",
+    "dataSource": "mysqldb",
     "public": true
   },
   "AccessToken": {
-    "dataSource": "mdb",
+    "dataSource": "mysqldb",
     "public": false
   },
   "UserCredential": {
-    "dataSource": "mdb",
+    "dataSource": "mysqldb",
     "public": false
   },
   "UserIdentity": {
-    "dataSource": "mdb",
+    "dataSource": "mysqldb",
     "public": false
   },
   "ACL": {
-    "dataSource": "mdb",
+    "dataSource": "mysqldb",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "mdb",
+    "dataSource": "mysqldb",
     "public": false
   },
   "Role": {
-    "dataSource": "mdb",
+    "dataSource": "mysqldb",
     "public": false
   }
 }
